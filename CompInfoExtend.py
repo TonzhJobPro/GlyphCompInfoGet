@@ -72,3 +72,4 @@ for key,val in comps1:
 		f_out.write(unichr(int(hex(g.unicode), 16)) + "\t")
 	f_out.write('\r\n')
 f_out.close()		
+ #http://www.e-font.de/flpydoc/
